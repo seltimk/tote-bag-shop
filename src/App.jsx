@@ -12,7 +12,7 @@ function App() {
   return (
     <>
 
-    <h1>Test</h1>
+    <h1>Testing</h1>
       <div className="bg-[#FAFFFF]">
         <div className="mx-auto max-w-[1240px] px-4"> 
           <Navbar />
